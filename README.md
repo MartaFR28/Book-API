@@ -1,1 +1,3 @@
-# Book-API
+
+# thebookclub (API)
+Bienvenido a The book club, un espacio de textos digital. En esta página web podrás guardar tus textos añadiendo un titulo, el texto en si, un autor... Esta página web esta creada con la finalidad de poder subir tus textos y en vez de tenerlos guardados en un cuaderno tenerlos de una forma digital. Los textos pueden ser de todo aquello que quieras,ya sean inventados por ti o fragmentos de libros, canciones, textos, poemas, peliculas que quieres guardar y leer de vez en cuando. Al igual que se crean se pueden eliminar ya sea por el motivo que tengas. Editar de momento no porque esta pensado para textos ya creados (como he dicho antes este club es un sitio donde refugiar esos textos). Claro esta que este club irá mejorando su desarrollo y apliando sus destrezas. Espero que lo disfrutes tanto como lo disfruto yo creandolo. ❤️
